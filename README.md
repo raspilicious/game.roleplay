@@ -8,3 +8,5 @@ Not only have I uploaded the PDF "card" version of this game, but also a playabl
 Pro tips: The code in this game works! You could use this game to teach yourself or a friend a tiny bit of coding (using the program structure as a reference), or even keep the card handy for those moments when you're away from a computer and need a little programming kick of endorphins. :>
 
 Enjoy! :)
+
+![](https://github.com/raspilicious/game.roleplay/blob/master/game.roleplay()%20v0.2%20gameplay.gif)

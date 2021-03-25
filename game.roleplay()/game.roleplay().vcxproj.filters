@@ -27,4 +27,7 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="game.roleplay() class diagram.cd" />
+  </ItemGroup>
 </Project>

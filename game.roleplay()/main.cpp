@@ -1,11 +1,10 @@
-// game.roleplay() v0.2
+// game.roleplay() v0.3
 // by Aaron Goss
 // https://bit.ly/3vVu8kn
 
 #include "game.h"
 
-int main()
-{
+int main() {
     Game game;
 
     while (game.roleplaying) {

@@ -1,4 +1,4 @@
-# game.roleplay
+# game.roleplay()
 A business card-sized RPG written in C++.
 
 I was struck by another bout of inspiration and made another little game for the [Pleasure-not-Business Card RPG Jam](https://itch.io/jam/pleasurecardrpg). This one combines my passions of programming, analogue game design, and roleplaying games! ^_^;
